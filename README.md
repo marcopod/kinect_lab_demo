@@ -6,7 +6,6 @@
 - [Azure Kinect Viewer SDK](https://learn.microsoft.com/en-us/azure/kinect-dk/azure-kinect-viewer)
 - [Azure Kinect Body Tracking Viewer SDK](https://learn.microsoft.com/en-us/azure/kinect-dk/body-sdk-download)
 - Instalar los modulos de python necesarios
-- `py {nombre_del_script.py}`
 
 ## Comandos para correr
 (Recuerda que puedes usar la tecla `Tab` para autocompletar el nombre)
@@ -20,9 +19,9 @@ Hacer la run del código, utilizar el kinect y almacenar los datos en el json
 Visualizar los datos guardados en el json
 
 ## pip modules
-pyk4a
-pykinect_azure
-opencv-python
+- pyk4a
+- pykinect_azure
+- opencv-python
 
 ## Ejemplos de PyKinect
 [PyKinect Examples](https://github.com/ibaiGorordo/pyKinectAzure/tree/master/examples)
