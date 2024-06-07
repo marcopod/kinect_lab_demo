@@ -9,7 +9,7 @@
 - `py {nombre_del_script.py}`
 
 ## Comandos para correr
-(Recuerda que puedes usar la tecla `Tab` para autocmpletar el nombre)
+(Recuerda que puedes usar la tecla `Tab` para autocompletar el nombre)
 - `py k_depth_skeleton_press.py`
 - `py visualize_body_data.py`
 
