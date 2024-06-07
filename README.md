@@ -10,8 +10,8 @@
 
 ## Comandos para correr
 (Recuerda que puedes usar la tecla `Tab` para autocmpletar el nombre)
-`py k_depth_skeleton_press.py`
-`py visualize_body_data.py`
+- `py k_depth_skeleton_press.py`
+- `py visualize_body_data.py`
 
 ## Códigos para la conexión del EEG con visión computacional.
 - k_repth_sekeleton_press:
